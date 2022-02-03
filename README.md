@@ -10,6 +10,14 @@
 
 [5 - Lists and Tables: push/pop on a custom array ](../../tree/3cee1121ba80c75b9d224290e2a6a842bb4d82fe/)
 
-[6 - Empty ](../../tree//)
+[6 - Stack with linked list ](../../tree/24a7a5dce9f7b14bd550d9759b4d017d4099beab/)
 
 [7 - Empty ](../../tree//)
+
+[8 - Empty ](../../tree//)
+
+[9 - Empty ](../../tree//)
+
+[10 - Empty ](../../tree//)
+
+[11 - Empty ](../../tree//)
