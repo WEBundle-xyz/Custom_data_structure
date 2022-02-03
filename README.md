@@ -14,7 +14,7 @@
 
 [7 - Building a queue ](../../tree/e16222521eaf92b21588220ba15631dc5d6cfe34/)
 
-[8 - Empty ](../../tree//)
+[8 - Algorithm - to be modified with a hash table ](../../tree/47dea12ffe55c4716d569744501f62991838569f/)
 
 [9 - Empty ](../../tree//)
 
