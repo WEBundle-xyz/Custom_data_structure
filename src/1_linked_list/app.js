@@ -25,6 +25,32 @@ class LinkedList {
 		}
 	}
 
+	insertAfter(value, afterValue) {
+		const existingNode = this.find(afterValue);
+
+		if (existingNode) {
+			const NewNode = { value: value, next: existingNode.next };
+			existingNode.next = newNode;
+		}
+	}
+
+	find(value) {
+		if (!this.head) {
+			return;
+		}
+
+		let curNode = this.head;
+
+		while (curNode) {
+			if (curNode.value === value) {
+				return curNode;
+			}
+			curNode = curNode.next;
+		}
+
+		return null;
+	}
+
 	delete(value) {
 		if (!this.head) {
 			return;
@@ -77,3 +103,7 @@ linkedList1.append('This is WEBundle');
 linkedList1.append('This is WEBundle - to delete this one');
 
 console.log(linkedList1.toArray());
+console.log(linkedList1.find('This is WEBundle'));
+
+linkedList1.insertAfter('some value before 1', 1);
+linkedList1.insertAfter('some value before 1', 'Choose WEBundle');
