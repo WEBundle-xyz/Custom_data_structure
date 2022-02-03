@@ -8,7 +8,7 @@
 
 [4 - Inserting elements ](../../tree/4d1d78b93b6dfcb439bb8654a1ec39b77cba5f14/)
 
-[5 - Empty ](../../tree//)
+[5 - Lists and Tables: push/pop on a custom array ](../../tree/3cee1121ba80c75b9d224290e2a6a842bb4d82fe/)
 
 [6 - Empty ](../../tree//)
 
