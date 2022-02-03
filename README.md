@@ -12,7 +12,7 @@
 
 [6 - Stack with linked list ](../../tree/24a7a5dce9f7b14bd550d9759b4d017d4099beab/)
 
-[7 - Empty ](../../tree//)
+[7 - Building a queue ](../../tree/e16222521eaf92b21588220ba15631dc5d6cfe34/)
 
 [8 - Empty ](../../tree//)
 
