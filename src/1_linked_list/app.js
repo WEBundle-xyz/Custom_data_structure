@@ -25,6 +25,30 @@ class LinkedList {
 		}
 	}
 
+	delete(value) {
+		if (!this.head) {
+			return;
+		}
+
+		while (this.head && this.head.value === value) {
+			this.head = this.head.next;
+		}
+
+		let curNode = this.head;
+
+		while (curNode.next) {
+			if (curNode.next.value === value) {
+				curNode.next = curNode.next.next;
+			} else {
+				curNode = curNode.next;
+			}
+		}
+
+		if (this.tail.value === value) {
+			this.tail = curNode;
+		}
+	}
+
 	toArray() {
 		const elements = [];
 
@@ -37,11 +61,19 @@ class LinkedList {
 		return elements;
 	}
 }
-
 const linkedList1 = new LinkedList();
 linkedList1.append(100);
 linkedList1.append('This is WEBundle');
+linkedList1.append('This is WEBundle - to delete this one');
 linkedList1.append(true);
 linkedList1.append(34.45);
+
+console.log(linkedList1.toArray());
+
+console.log(linkedList1.toArray());
+
+linkedList1.append(100);
+linkedList1.append('This is WEBundle');
+linkedList1.append('This is WEBundle - to delete this one');
 
 console.log(linkedList1.toArray());
