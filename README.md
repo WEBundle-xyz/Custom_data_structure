@@ -16,7 +16,7 @@
 
 [8 - Algorithm - to be modified with a hash table ](../../tree/47dea12ffe55c4716d569744501f62991838569f/)
 
-[9 - Empty ](../../tree//)
+[9 - Using hash tables for a more efficient algorithm ](../../tree/e48557cf6a0d2d5907833d51dd9f48ac942fa973/)
 
 [10 - Empty ](../../tree//)
 
