@@ -18,6 +18,10 @@
 
 [9 - Using hash tables for a more efficient algorithm ](../../tree/e48557cf6a0d2d5907833d51dd9f48ac942fa973/)
 
-[10 - Empty ](../../tree//)
+[10 - HashTable - time complexity ](../../tree/17f5fb952449cf3c8275f632457d06f68467643c/)
 
 [11 - Empty ](../../tree//)
+
+[12 - Empty ](../../tree//)
+
+[13 - Empty ](../../tree//)
