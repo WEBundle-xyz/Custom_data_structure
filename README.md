@@ -24,12 +24,6 @@
 
 [12 - Removing tree nodes ](../../tree/9de75bfcd5addfd389517228ef09664ef3dc9ccd/)
 
-[13 - Empty ](../../tree//)
+[13 - Priorities queues ](../../tree/33257b567f5baf537dc25af9d26b767e0750eeec/)
 
-[14 - Empty ](../../tree//)
 
-[15 - Empty ](../../tree//)
-
-[16 - Empty ](../../tree//)
-
-[17 - Empty ](../../tree//)
