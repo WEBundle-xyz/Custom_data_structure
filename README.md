@@ -22,6 +22,14 @@
 
 [11 - Trees ](../../tree/8932aa35f214a672a41497d6c55be30448925922/)
 
-[12 - Empty ](../../tree//)
+[12 - Removing tree nodes ](../../tree/9de75bfcd5addfd389517228ef09664ef3dc9ccd/)
 
 [13 - Empty ](../../tree//)
+
+[14 - Empty ](../../tree//)
+
+[15 - Empty ](../../tree//)
+
+[16 - Empty ](../../tree//)
+
+[17 - Empty ](../../tree//)
